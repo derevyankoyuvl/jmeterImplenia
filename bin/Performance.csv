@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1634731264024,770,HomePage,200,OK,One user 5 seconds 1-1,text,true,,138385,327,1,1,https://integration2.implenia.com/,706,0,532
+1634731264807,1003,References,200,OK,One user 5 seconds 1-1,text,true,,346928,349,1,1,https://integration2.implenia.com/referenzen/uebersicht/,844,0,0
