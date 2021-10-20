@@ -455,7 +455,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">/Users/yuriyderevyanko/Projects/jmeterImplenia/bin/reports/Performance.csv</stringProp>
+        <stringProp name="filename">/Users/yuriyderevyanko/Projects/jmeterImplenia/bin/Performance.csv</stringProp>
       </ResultCollector>
       <hashTree/>
       <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="AssertStatusCode" enabled="true">
