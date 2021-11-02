@@ -27,7 +27,7 @@
         <boolProp name="CookieManager.controlledByThreadGroup">false</boolProp>
       </CookieManager>
       <hashTree/>
-      <AuthManager guiclass="AuthPanel" testclass="AuthManager" testname="HTTP Authorization Manager" enabled="false">
+      <AuthManager guiclass="AuthPanel" testclass="AuthManager" testname="HTTP Authorization Manager" enabled="true">
         <collectionProp name="AuthManager.auth_list">
           <elementProp name="" elementType="Authorization">
             <stringProp name="Authorization.url">https://integration2.implenia.com/</stringProp>
@@ -44,7 +44,7 @@
         <collectionProp name="Arguments.arguments">
           <elementProp name="baseUrl" elementType="Argument">
             <stringProp name="Argument.name">baseUrl</stringProp>
-            <stringProp name="Argument.value">implenia.com</stringProp>
+            <stringProp name="Argument.value">integration2.implenia.com</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
         </collectionProp>
